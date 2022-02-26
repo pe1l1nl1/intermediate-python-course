@@ -11,4 +11,4 @@ print(f'You rolled a {roll}')
 
 import random 
 
-roll = random.randint(1,6);
+roll = random.randint(1,6)
